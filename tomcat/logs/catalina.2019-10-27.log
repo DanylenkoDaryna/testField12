@@ -1,0 +1,36 @@
+27-Oct-2019 19:17:55.723 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.0
+27-Oct-2019 19:17:55.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2016 20:15:31 UTC
+27-Oct-2019 19:17:55.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.0
+27-Oct-2019 19:17:55.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+27-Oct-2019 19:17:55.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+27-Oct-2019 19:17:55.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+27-Oct-2019 19:17:55.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_211
+27-Oct-2019 19:17:55.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+27-Oct-2019 19:17:55.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Oct-2019 19:17:55.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat
+27-Oct-2019 19:17:55.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat
+27-Oct-2019 19:17:55.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Oct-2019 19:17:55.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Oct-2019 19:17:55.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\conf\logging.properties
+27-Oct-2019 19:17:55.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Oct-2019 19:17:55.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat
+27-Oct-2019 19:17:55.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat
+27-Oct-2019 19:17:55.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\temp
+27-Oct-2019 19:17:55.741 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_211\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Aldec\Active-HDL 9.1\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw32\bin;C:\Program Files\Git\usr\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Py\Scripts\;C:\Py\;C:\Users\Дарина\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk1.8.0_162\bin;.
+27-Oct-2019 19:17:56.008 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Oct-2019 19:17:56.793 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Oct-2019 19:17:56.799 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Oct-2019 19:17:56.803 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Oct-2019 19:17:56.804 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1727 ms
+27-Oct-2019 19:17:56.859 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+27-Oct-2019 19:17:56.860 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.0
+27-Oct-2019 19:17:56.880 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\conf\Catalina\localhost\app.xml
+27-Oct-2019 19:17:57.790 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\conf\Catalina\localhost\app.xml has finished in 908 ms
+27-Oct-2019 19:17:57.792 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\webapps\manager
+27-Oct-2019 19:17:57.858 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\webapps\manager has finished in 66 ms
+27-Oct-2019 19:17:57.859 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\webapps\ROOT
+27-Oct-2019 19:17:57.900 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\Downloads\JEE-for-IDEA-Community\tomcat\webapps\ROOT has finished in 41 ms
+27-Oct-2019 19:17:57.906 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+27-Oct-2019 19:17:57.930 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+27-Oct-2019 19:17:57.934 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1128 ms
+27-Oct-2019 19:28:42.481 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer Could not contact localhost:8005. Tomcat may not be running.

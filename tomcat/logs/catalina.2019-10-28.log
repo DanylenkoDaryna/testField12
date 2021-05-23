@@ -1,0 +1,116 @@
+28-Oct-2019 20:13:46.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.0
+28-Oct-2019 20:13:46.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2016 20:15:31 UTC
+28-Oct-2019 20:13:46.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.0
+28-Oct-2019 20:13:46.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+28-Oct-2019 20:13:46.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+28-Oct-2019 20:13:46.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+28-Oct-2019 20:13:46.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_211
+28-Oct-2019 20:13:46.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+28-Oct-2019 20:13:46.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Oct-2019 20:13:46.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:13:46.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:13:46.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Oct-2019 20:13:46.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Oct-2019 20:13:46.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\logging.properties
+28-Oct-2019 20:13:46.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Oct-2019 20:13:46.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:13:46.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:13:46.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Дарина\IdeaProjects\TestField12\tomcat\temp
+28-Oct-2019 20:13:46.491 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_211\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Aldec\Active-HDL 9.1\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw32\bin;C:\Program Files\Git\usr\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Py\Scripts\;C:\Py\;C:\Users\Дарина\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk1.8.0_162\bin;.
+28-Oct-2019 20:13:46.821 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Oct-2019 20:13:47.179 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Oct-2019 20:13:47.185 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+28-Oct-2019 20:13:47.189 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Oct-2019 20:13:47.190 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1559 ms
+28-Oct-2019 20:13:47.246 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+28-Oct-2019 20:13:47.247 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.0
+28-Oct-2019 20:13:47.268 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml
+28-Oct-2019 20:13:48.337 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml has finished in 1,069 ms
+28-Oct-2019 20:13:48.340 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\manager
+28-Oct-2019 20:13:48.408 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\manager has finished in 68 ms
+28-Oct-2019 20:13:48.409 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\ROOT
+28-Oct-2019 20:13:48.449 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\ROOT has finished in 40 ms
+28-Oct-2019 20:13:48.455 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+28-Oct-2019 20:13:48.469 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+28-Oct-2019 20:13:48.473 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1282 ms
+28-Oct-2019 20:16:38.743 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/app]
+28-Oct-2019 20:16:38.874 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml
+28-Oct-2019 20:16:39.271 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml has finished in 396 ms
+28-Oct-2019 20:21:53.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.0
+28-Oct-2019 20:21:53.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2016 20:15:31 UTC
+28-Oct-2019 20:21:53.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.0
+28-Oct-2019 20:21:53.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+28-Oct-2019 20:21:53.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+28-Oct-2019 20:21:53.334 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+28-Oct-2019 20:21:53.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_211
+28-Oct-2019 20:21:53.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+28-Oct-2019 20:21:53.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Oct-2019 20:21:53.336 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:21:53.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:21:53.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Oct-2019 20:21:53.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Oct-2019 20:21:53.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\logging.properties
+28-Oct-2019 20:21:53.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Oct-2019 20:21:53.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:21:53.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 20:21:53.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Дарина\IdeaProjects\TestField12\tomcat\temp
+28-Oct-2019 20:21:53.345 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_211\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Aldec\Active-HDL 9.1\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw32\bin;C:\Program Files\Git\usr\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Py\Scripts\;C:\Py\;C:\Users\Дарина\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk1.8.0_162\bin;.
+28-Oct-2019 20:21:53.612 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Oct-2019 20:21:53.951 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Oct-2019 20:21:53.955 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+28-Oct-2019 20:21:53.960 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Oct-2019 20:21:53.960 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1273 ms
+28-Oct-2019 20:21:54.017 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+28-Oct-2019 20:21:54.018 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.0
+28-Oct-2019 20:21:54.037 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml
+28-Oct-2019 20:21:55.250 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml has finished in 1,211 ms
+28-Oct-2019 20:21:55.251 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\manager
+28-Oct-2019 20:21:55.314 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\manager has finished in 63 ms
+28-Oct-2019 20:21:55.315 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\ROOT
+28-Oct-2019 20:21:55.350 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\ROOT has finished in 35 ms
+28-Oct-2019 20:21:55.369 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+28-Oct-2019 20:21:55.453 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+28-Oct-2019 20:21:55.460 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1498 ms
+28-Oct-2019 21:22:00.475 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+28-Oct-2019 21:22:00.499 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Oct-2019 21:22:00.527 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+28-Oct-2019 21:22:00.578 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+28-Oct-2019 21:22:00.672 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Oct-2019 21:22:00.680 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+28-Oct-2019 21:22:00.683 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+28-Oct-2019 21:22:00.686 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+28-Oct-2019 21:22:05.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.0
+28-Oct-2019 21:22:05.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2016 20:15:31 UTC
+28-Oct-2019 21:22:05.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.0
+28-Oct-2019 21:22:05.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+28-Oct-2019 21:22:05.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+28-Oct-2019 21:22:05.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+28-Oct-2019 21:22:05.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_211
+28-Oct-2019 21:22:05.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+28-Oct-2019 21:22:05.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Oct-2019 21:22:05.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 21:22:05.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 21:22:05.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Oct-2019 21:22:05.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Oct-2019 21:22:05.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\logging.properties
+28-Oct-2019 21:22:05.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Oct-2019 21:22:05.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 21:22:05.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Дарина\IdeaProjects\TestField12\tomcat
+28-Oct-2019 21:22:05.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Дарина\IdeaProjects\TestField12\tomcat\temp
+28-Oct-2019 21:22:05.967 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_211\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files\Java\jre1.8.0_211\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Aldec\Active-HDL 9.1\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw32\bin;C:\Program Files\Git\usr\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Py\Scripts\;C:\Py\;C:\Users\Дарина\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk1.8.0_162\bin;.
+28-Oct-2019 21:22:06.206 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Oct-2019 21:22:06.546 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Oct-2019 21:22:06.552 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+28-Oct-2019 21:22:06.556 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Oct-2019 21:22:06.557 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1231 ms
+28-Oct-2019 21:22:06.617 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+28-Oct-2019 21:22:06.617 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.0
+28-Oct-2019 21:22:06.637 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml
+28-Oct-2019 21:22:07.565 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor C:\Users\Дарина\IdeaProjects\TestField12\tomcat\conf\Catalina\localhost\app.xml has finished in 927 ms
+28-Oct-2019 21:22:07.568 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\manager
+28-Oct-2019 21:22:07.624 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\manager has finished in 56 ms
+28-Oct-2019 21:22:07.625 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\ROOT
+28-Oct-2019 21:22:07.658 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Дарина\IdeaProjects\TestField12\tomcat\webapps\ROOT has finished in 33 ms
+28-Oct-2019 21:22:07.663 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-8080]
+28-Oct-2019 21:22:07.676 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+28-Oct-2019 21:22:07.680 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1121 ms
